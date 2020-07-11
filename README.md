@@ -8,7 +8,7 @@ i try to learn everyday something new to improve my skillset 🙂
 
 currently i'm working with JavaScript, NodeJs, ReactJS and some GraphQL 
 
-contact me in:
+contact me
 
 📧: [colcasio1@gmail.com](colcasio1@gmail.com)
 
